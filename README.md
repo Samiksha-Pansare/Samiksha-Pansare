@@ -1,6 +1,7 @@
-### Hey there 👋
-### 🔭 I’m currently working as a Web Developer in a StartUp in Mumbai
-### 🌱 I’m currently learning Data Science And Machine Learning
+### Hey there 👋, I am Samiksha
+#### Computer Science Engineering Student(2023)
+- 🔭 I’m currently working as a Web Developer in a StartUp in Mumbai
+- 🌱 I’m currently learning Data Science And Machine Learning
 - 👯 I’m looking to collaborate on a open source Project
 - :)  Open to Internships
 
