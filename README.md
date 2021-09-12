@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha-Pansare&layout=compact&theme=radical" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samiksha-Pansare&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
-#### Thanks for visiting :heart:
+Thanks for visiting :heart:
  <br><br>
-![VisitorCount](https://profile-counter.glitch.me/Samiksha-Pansare/count.svg)
+<img align="center" src="https://profile-counter.glitch.me/Samiksha-Pansare/count.svg" alt="My Github Count">
+
