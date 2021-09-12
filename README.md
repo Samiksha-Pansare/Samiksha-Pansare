@@ -68,8 +68,35 @@ Here are some ideas to get you started:
 </td></tr>
 
 </table>  
-
 <br/>
+ <br>
+ <br>
+ <a href="https://twitter.com/PansareSamiksha?s=09">
+  <img align="left" alt="Samiksha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/samiksha-pansare">
+  <img align="left" alt="Samiksha's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Samiksha-Pansare/Samiksha-Pansare">
+  <img align="left" alt="Samiksha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/samiksha_pansare/">
+  <img align="left" alt="Samiksha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<!-- <a href="#">
+  <img align="left" alt="Samiksha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a> -->
+<a href="https://www.hackerrank.com/pansaresamiksha">
+  <img align="left" alt="Samiksha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<br><br>
 <!-- [Samiksha's github stats](https://github-readme-stats.vercel.app/api?username=samiksha-pansare&hide=["issues"]&show_icons=true) -->
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-pansare&theme=tokyonight&hide=dart">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-pansare&theme=tokyonight&hide=dart"> -->
+ <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha-Pansare&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Samiksha-Pansare&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
+#### Thanks for visiting :heart:
+ <br><br>
+![VisitorCount](https://profile-counter.glitch.me/Samiksha-Pansare/count.svg)
