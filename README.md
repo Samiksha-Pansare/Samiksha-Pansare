@@ -84,7 +84,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Samiksha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://samiksha-pansare.github.io/Samiksha--Pansare/">
-  <img align="left" alt="Samiksha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/superuser.svg" />
+  <img align="left" alt="Samiksha's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/superuser.svg" />
 </a>
 <a href="https://www.hackerrank.com/pansaresamiksha">
   <img align="left" alt="Samiksha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
