@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33.33%">
+<table><tr><td valign="top" width="25%">
 
 #### Programming Languages  
 <div align="center">  
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/> </a>
  <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="25" height="25"/> </a>
 </div>
-</td><td valign="top" width="33.33%">
+</td><td valign="top" width="25%">
 
 #### Web Development   
 <div align="center">
@@ -46,9 +46,8 @@ Here are some ideas to get you started:
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="25" height="25"/> </a>
 </div>
 
-</td></tr>
-
-<tr><td valign="top" width="33.33%">
+</td>
+ <td valign="top" width="25%">
 
 #### Database
 <div align="center">  
@@ -56,7 +55,7 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> </a>
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25"/> </a>
 </div>
-</td><td valign="top" width="33.33%">
+</td><td valign="top" width="25%">
 
 #### Other  
 <div align="center">
