@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Samiksha's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/superuser.svg" />
 </a>
 <a href="https://www.hackerrank.com/pansaresamiksha">
-  <img align="left" alt="Samiksha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Samiksha's Hackerrank" width="22px" background=""#ffffff src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br><br>
 <!-- [Samiksha's github stats](https://github-readme-stats.vercel.app/api?username=samiksha-pansare&hide=["issues"]&show_icons=true) -->
