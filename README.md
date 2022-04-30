@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <a href="https://samiksha-pansare.github.io/Samiksha--Pansare/">
   <img align="left" alt="Samiksha's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/superuser.svg" />
 </a>
-<a href="https://www.hackerrank.com/pansaresamiksha" style="background='#ffffff'">
+<a href="https://www.hackerrank.com/pansaresamiksha">
   <img align="left" alt="Samiksha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br><br>
