@@ -1,4 +1,4 @@
-### Hey there 👋, I am a CSE Student
+### Hey there 👋, I am Samiksha
 #### Computer Science Engineering Student(2023)
 - 🔭 I’m currently working as a Web Developer in a StartUp in Mumbai
 - 🌱 I’m currently learning Data Science And Machine Learning
