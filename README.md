@@ -1,9 +1,10 @@
 ### Hey there 👋, I am Samiksha
-#### Computer Science Engineering Student(2023)
-- 🔭 I’m currently working as a Web Developer in a StartUp in Mumbai
-- 🌱 I’m currently learning Data Science And Machine Learning
-- 👯 I’m looking to collaborate on a open source Project
-- :)  Open to Internships
+#### Data Engineer
+- 📍 I’m currently working as a Data Engineer at Media.net, Mumbai
+- 🐘 I work on various Big Data Projects using Pyspark, Apache Kafka, Apache Spark
+- 💻 I also work on Mysql , MSSQL - Creating stored procedures, tables, schemas, managing servers
+- 📫 Shoot me a mail at samikshapansarework[AT]gmail[DOT]com
+
 
 <!--
 **Samiksha-Pansare/Samiksha-Pansare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
