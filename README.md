@@ -3,7 +3,7 @@
 - 📍 I’m currently working as a Data Engineer at Media.net, Mumbai
 - 🐘 I work on various Big Data Projects using Pyspark, Apache Kafka, Apache Spark
 - 💻 I also work on Mysql , MSSQL - Creating stored procedures, tables, schemas, managing servers
-- 📫 Shoot me a mail at samikshapansarework[AT]gmail[DOT]com
+- 📫 Shoot me a mail at samikshapansarework@gmail.com
 
 
 <!--
@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> </a>
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="25" height="25"/> </a>
+ <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg" alt="sqlite" width="25" height="25"/> </a>
+ <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="sqlite" width="25" height="25"/> </a>
 </div>
 </td><td valign="top" width="25%">
 
